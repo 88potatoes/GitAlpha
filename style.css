@@ -1,0 +1,14 @@
+#Eric {
+    width: 10rem;
+    height: 5rem;
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Roboto Mono", sans-serif;
+    font-size: large;
+}
+
+#Eric:hover {
+    background: blue;
+}
