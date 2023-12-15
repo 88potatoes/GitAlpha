@@ -1,6 +1,7 @@
 # GitAlpha - Practice contributing to a repo
 
 Hey guys. This is a quick introduction on how to contribute to a git repo where you cannot commit directly to the repo.
+Website here: https://hackmelbourne.github.io/GitAlpha/
 
 ## Steps
 ### 1 - Fork the repo
