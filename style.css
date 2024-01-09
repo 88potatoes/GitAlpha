@@ -11,7 +11,14 @@
 
 #Eric:hover {
     background: blue;
+}
+
+#Eric:hover a{
     color: #fff;
+}
+
+#ericstyle, #ericstyle:visited{
+    text-decoration: none;
 }
 
 body {
